@@ -1,0 +1,15 @@
+C:\Users\Matheus\Documents\Alura\Formações CSharp\RandomGuesser\RandomGuesser\obj\Debug\net6.0\RandomGuesser.csproj.AssemblyReference.cache
+C:\Users\Matheus\Documents\Alura\Formações CSharp\RandomGuesser\RandomGuesser\obj\Debug\net6.0\RandomGuesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\Alura\Formações CSharp\RandomGuesser\RandomGuesser\obj\Debug\net6.0\RandomGuesser.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\Alura\Formações CSharp\RandomGuesser\RandomGuesser\obj\Debug\net6.0\RandomGuesser.AssemblyInfo.cs
+C:\Users\Matheus\Documents\Alura\Formações CSharp\RandomGuesser\RandomGuesser\obj\Debug\net6.0\RandomGuesser.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\Alura\Formações CSharp\RandomGuesser\RandomGuesser\bin\Debug\net6.0\RandomGuesser.exe
+C:\Users\Matheus\Documents\Alura\Formações CSharp\RandomGuesser\RandomGuesser\bin\Debug\net6.0\RandomGuesser.deps.json
+C:\Users\Matheus\Documents\Alura\Formações CSharp\RandomGuesser\RandomGuesser\bin\Debug\net6.0\RandomGuesser.runtimeconfig.json
+C:\Users\Matheus\Documents\Alura\Formações CSharp\RandomGuesser\RandomGuesser\bin\Debug\net6.0\RandomGuesser.dll
+C:\Users\Matheus\Documents\Alura\Formações CSharp\RandomGuesser\RandomGuesser\bin\Debug\net6.0\RandomGuesser.pdb
+C:\Users\Matheus\Documents\Alura\Formações CSharp\RandomGuesser\RandomGuesser\obj\Debug\net6.0\RandomGuesser.dll
+C:\Users\Matheus\Documents\Alura\Formações CSharp\RandomGuesser\RandomGuesser\obj\Debug\net6.0\refint\RandomGuesser.dll
+C:\Users\Matheus\Documents\Alura\Formações CSharp\RandomGuesser\RandomGuesser\obj\Debug\net6.0\RandomGuesser.pdb
+C:\Users\Matheus\Documents\Alura\Formações CSharp\RandomGuesser\RandomGuesser\obj\Debug\net6.0\RandomGuesser.genruntimeconfig.cache
+C:\Users\Matheus\Documents\Alura\Formações CSharp\RandomGuesser\RandomGuesser\obj\Debug\net6.0\ref\RandomGuesser.dll
